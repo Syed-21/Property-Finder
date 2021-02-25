@@ -1,0 +1,56 @@
+Name : Syed Hussain Shah
+
+Address : Peshawar
+
+Reccomendation : I dont think this Program needs any reccomendation
+
+Ratings : 10/10
+****************************************************************************
+Name : Aamir Shah
+
+Address : Peshawar
+
+Reccomendation : nothing
+
+Ratings : 9/10
+*****************************************************************************
+Name : Abbas Wazir
+
+Address : Peshawar
+
+Reccomendation : It is Perfect
+
+Ratings : 10/10
+******************************************************************************
+Name : Nisar Mehsud
+
+Address : Waziristan
+
+Reccomendation : Its the best
+
+Ratings : 10/10
+*******************************************************************************
+Name : Moeed Ahmad
+
+Address : Peshawar
+
+Reccomendation : PERFECT!!!!
+
+Ratings : 9.5/10
+*******************************************************************************
+Name : nisar pashtun 
+
+Address : Waziristan
+
+Reccomendation : This program is very good
+
+Ratings : 10/10
+*******************************************************************************
+Name : Shoukat Mehsud
+
+Address : Ring Road
+
+Reccomendation : I dont have any reccomendation
+
+Ratings : 9.5/10
+*******************************************************************************
